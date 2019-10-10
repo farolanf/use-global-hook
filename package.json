@@ -2,13 +2,17 @@
   "license": "MIT",
   "main": "dist/index.js",
   "name": "use-global-hook",
-  "repository": "github:andregardi/use-global-hook",
+  "repository": "github:farolanf/use-global-hook",
   "scripts": {
     "build": "webpack --mode production",
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "version": "0.1.10",
-  "author": "andregardi",
+  "author": {
+    "name": "Farolan Faisal",
+    "email": "farolanfaisal@gmail.com",
+    "url": "https://github.com/farolanf"
+  },
   "devDependencies": {
     "@babel/core": "^7.6.3",
     "@babel/preset-env": "^7.6.3",
